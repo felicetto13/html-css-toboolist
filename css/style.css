@@ -14,7 +14,13 @@ header {
     padding: 15px 10px;
 }
 
-
+ul{
+    list-style: none;
+    padding-top: 5px;
+}
+li {
+    margin-bottom: 15px;
+}
 
 /* classes style */
 
@@ -65,10 +71,7 @@ h2:before {
     padding: 3px;
     font-size: 10px;
 }
-ul{
-    list-style: none;
-    padding-top: 5px;
-}
+
 .btn-list {
     border: 1px solid transparent;
     color: #fff;
@@ -85,7 +88,7 @@ ul{
 }
 
 .violet {
-    background-color: #63C0A9;
+    background-color: #9C72E4;
 }
 .green {
     background-color: #63C0A9;
