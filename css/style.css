@@ -90,6 +90,12 @@ ul{
 .green {
     background-color: #63C0A9;
 }
+.green-text {
+    color: #63C0A9;
+}
+.red-text {
+    color: red;
+}
 .orange {
     background-color: #F29E33;
 }
