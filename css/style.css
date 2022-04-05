@@ -14,15 +14,88 @@ header {
     padding: 15px 10px;
 }
 
-/* main {
-    background-color: #fff;
-    width: 70%;
-    margin: auto 10% auto 5%;
-}
- */
+
+
 /* classes style */
 
 .title-header {
     vertical-align: top;
     font-size: 35px;
+}
+.main {
+    background-color: #fff;
+    width: 900px;
+    margin: 50px auto 5% auto ;
+    
+}
+.padding-left {
+    padding-left: 40px;
+}
+.head-main {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+}
+.btn {
+    background-color: #fff;
+    border: 1px solid lightgray;
+    color: lightgray;
+    border-radius: 3px;
+    box-shadow: none;
+    padding: 5px 10px;
+}
+.body-main {
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.container {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+h2 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+h2:before {
+    content: '\21A7 ';
+}
+.round {
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 3px;
+    font-size: 10px;
+}
+ul{
+    list-style: none;
+    padding-top: 5px;
+}
+.btn-list {
+    border: 1px solid transparent;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 10px;
+}
+
+/* color */
+
+.blue {
+    background-color: #46ADF1;
+    color: #fff;
+}
+
+.violet {
+    background-color: #63C0A9;
+}
+.green {
+    background-color: #63C0A9;
+}
+.orange {
+    background-color: #F29E33;
+}
+.pink{
+    background-color: #D763A1;
+}
+.green-light{
+    background-color: #B0C925;
 }
