@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* tag selectors */
+
+body {
+    background-color: #F5F8F9;
+}
+header {
+    background-color: #fff;
+    padding: 15px 10px;
+}
+
+/* main {
+    background-color: #fff;
+    width: 70%;
+    margin: auto 10% auto 5%;
+}
+ */
+/* classes style */
+
+.title-header {
+    vertical-align: top;
+    font-size: 35px;
+}
